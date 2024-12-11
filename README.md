@@ -4,8 +4,11 @@
 ## Tech Stack
 
 **Frontend**: ReactJS, Redux (RTK Query), Shadcn UI
+
 **Backend**: NodeJS, ExpressJS, MongoDB, JWT
+
 **File Storage**: Multer, Cloudinary
+
 **Payment Integration**: Stripe
 
 
